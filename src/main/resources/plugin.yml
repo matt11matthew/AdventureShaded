@@ -1,0 +1,4 @@
+name: AdventureShaded
+version: '${project.version}'
+main: me.matthewe.commissions.adventureshaded.AdventureShaded
+api-version: '1.16'
