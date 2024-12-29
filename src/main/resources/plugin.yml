@@ -2,3 +2,6 @@ name: AdventureShaded
 version: '${project.version}'
 main: me.matthewe.commissions.adventureshaded.AdventureShaded
 api-version: '1.16'
+commands:
+  testcommand:
+    description: Sends a MiniMessage parsed message from a file to the player
